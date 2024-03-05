@@ -1,0 +1,14 @@
+.card {
+  margin-bottom: 20px;
+  text-align: center;
+  height: 650px;
+}
+.card img{
+  height: 400px;
+}
+.card h5{
+  color: blueviolet;
+}
+.blood{
+  color:red;
+}
